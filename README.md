@@ -11,7 +11,7 @@ element {
 }
 ```
 
-####or (equilateral)
+####or (equilateral):
 ```less
 element {
     ...
@@ -20,7 +20,7 @@ element {
 }
 ```
 
-####or (isosceles)
+####or (isosceles):
 ```less
 element {
     ...
@@ -29,7 +29,7 @@ element {
 }
 ```
 
-####or (scalene)
+####or (scalene):
 ```less
 element {
     ...
