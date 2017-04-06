@@ -1,6 +1,6 @@
 # advanced less triangle
 
-#### less mixins for create css triangles
+### less mixins for create css triangles
 
 #### Using (fully custom):
 ```css
